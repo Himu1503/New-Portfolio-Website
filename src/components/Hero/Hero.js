@@ -14,7 +14,7 @@ const Hero = () => (
     <SectionText>
       I want to showcase my coding skills and the list of the projects that I have made. 
     </SectionText>
-    <Button onClick={()=> window.location= "https://google.com"}> Learn More </Button>
+    <Button onClick={()=> window.location= "gitub.com/Himu1503"}> Learn More </Button>
     </LeftSection>
   </Section>
 );
